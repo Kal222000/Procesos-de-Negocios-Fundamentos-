@@ -1,9 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2024-05-25T01:46:24.824Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="24.4.8" etag="KaCbUHQLMeXZor1TVj2P" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-25T01:52:38.121Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="z_DceKeZGVMyZwtZnZie" version="24.4.8" type="github">
   <diagram name="Page-1" id="ZfYvIdGgqAfAIDWi9Drx">
-    <mxGraphModel>
+    <mxGraphModel dx="880" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="8juJ8jk8M8b2wABj210g-1" value="Generación y&lt;div&gt;envío de&lt;/div&gt;&lt;div&gt;facturas&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8juJ8jk8M8b2wABj210g-2" value="Automatizado&lt;div&gt;para ser&lt;/div&gt;&lt;div&gt;recibido&lt;/div&gt;&lt;div&gt;digitalmente&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8juJ8jk8M8b2wABj210g-3" value="Registro de&lt;div&gt;pagos&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8juJ8jk8M8b2wABj210g-4" value="Seguimiento de&lt;div&gt;pagos&amp;nbsp;&lt;/div&gt;&lt;div&gt;pendientes&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8juJ8jk8M8b2wABj210g-5" value="Administración&lt;div&gt;y análisis de&lt;/div&gt;&lt;div&gt;cuentas por&lt;/div&gt;&lt;div&gt;cobrar&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8juJ8jk8M8b2wABj210g-6" value="Verificación de&lt;div&gt;todo lo&amp;nbsp;&lt;/div&gt;&lt;div&gt;realizado&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8juJ8jk8M8b2wABj210g-7" value="Reportes&lt;div&gt;periodicos&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="8juJ8jk8M8b2wABj210g-8" value="En caso de&lt;div&gt;superado el plazo&lt;/div&gt;&lt;div&gt;de deuda,&lt;/div&gt;&lt;div&gt;se toma acciones&lt;/div&gt;&lt;div&gt;para que pague&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="220" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
