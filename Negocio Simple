@@ -1,9 +1,30 @@
-<mxfile host="app.diagrams.net" modified="2024-05-25T00:47:15.815Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="24.4.8" etag="kLZGrpZZnN8FML22fOOZ" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-25T00:55:31.345Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="0r4fcahcCr9OXIVNwfcf" version="24.4.8" type="github">
   <diagram name="Page-1" id="68YjDEAhzyKYJsDdupvU">
-    <mxGraphModel>
+    <mxGraphModel dx="880" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="NsNNZtM7LxeeBERbCDJl-1" value="Cliente&amp;nbsp;&lt;div&gt;realiza pedido&lt;div&gt;por la web&lt;/div&gt;&lt;/div&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="NsNNZtM7LxeeBERbCDJl-2" value="Se registra en&amp;nbsp;&lt;div&gt;el sistema de&amp;nbsp;&lt;/div&gt;&lt;div&gt;pedidos de la&lt;/div&gt;&lt;div&gt;empresa&lt;/div&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;" vertex="1" parent="1">
+          <mxGeometry x="170" y="40" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="NsNNZtM7LxeeBERbCDJl-3" value="Equipo de&amp;nbsp;&lt;div&gt;deposito&lt;div&gt;recibe la&lt;/div&gt;&lt;div&gt;notificación.&lt;/div&gt;&lt;/div&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;" vertex="1" parent="1">
+          <mxGeometry x="300" y="40" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="NsNNZtM7LxeeBERbCDJl-4" value="Personal recoge&amp;nbsp;&lt;div&gt;los&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;articulos y&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;los&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;empaqueta&lt;/span&gt;&lt;/div&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;" vertex="1" parent="1">
+          <mxGeometry x="430" y="40" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="NsNNZtM7LxeeBERbCDJl-5" value="El pedido es&lt;div&gt;entregdo a&lt;/div&gt;&lt;div&gt;uno socio de&lt;/div&gt;&lt;div&gt;envío&lt;/div&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;" vertex="1" parent="1">
+          <mxGeometry x="560" y="40" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="NsNNZtM7LxeeBERbCDJl-6" value="Socio entrega el&lt;div&gt;paquete al&lt;/div&gt;&lt;div&gt;cliente&lt;/div&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;" vertex="1" parent="1">
+          <mxGeometry x="230" y="150" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="NsNNZtM7LxeeBERbCDJl-7" value="Cliente recibe su&amp;nbsp;&lt;div&gt;paquete y&amp;nbsp;&lt;/div&gt;&lt;div&gt;pedido&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;se&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;marca como&lt;/span&gt;&lt;/div&gt;&lt;div&gt;completado&lt;/div&gt;" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;" vertex="1" parent="1">
+          <mxGeometry x="355" y="150" width="140" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
