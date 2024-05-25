@@ -1,9 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2024-05-25T01:31:27.188Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" version="24.4.8" etag="19PM5La84pDV0odCRfsI" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-25T01:37:35.249Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="DlcF7eM9b1tdAu_JtvMT" version="24.4.8" type="github">
   <diagram name="Page-1" id="gl5PiUcgh1n0TPXxETM4">
-    <mxGraphModel>
+    <mxGraphModel dx="880" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Jr99fqbRKaF-lQZgBFgY-1" value="Investigación y&lt;div&gt;Análisis del&lt;div&gt;mercado&lt;/div&gt;&lt;div&gt;objetivo&lt;/div&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Jr99fqbRKaF-lQZgBFgY-2" value="Desarrollo de&lt;div&gt;estrategia&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Jr99fqbRKaF-lQZgBFgY-3" value="Desarrollo de&lt;div&gt;estrategia de&lt;/div&gt;&lt;div&gt;marketing&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Jr99fqbRKaF-lQZgBFgY-4" value="Optimización&lt;div&gt;del&lt;/div&gt;&lt;div&gt;contenido para&lt;/div&gt;&lt;div&gt;llamar la&lt;/div&gt;&lt;div&gt;atención&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="40" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Jr99fqbRKaF-lQZgBFgY-5" value="Interacción en&lt;div&gt;las redes&lt;/div&gt;&lt;div&gt;sociales&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Jr99fqbRKaF-lQZgBFgY-6" value="Recopilación de&lt;div&gt;información&lt;/div&gt;&lt;div&gt;de los usuarios&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Jr99fqbRKaF-lQZgBFgY-7" value="Automatización&lt;div&gt;de estrategias&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="130" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Jr99fqbRKaF-lQZgBFgY-8" value="Recopilación de&lt;div&gt;los resutados de&lt;/div&gt;&lt;div&gt;las campañas&lt;/div&gt;&lt;div&gt;de marketing&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="130" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
