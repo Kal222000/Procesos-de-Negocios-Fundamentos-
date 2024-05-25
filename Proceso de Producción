@@ -1,32 +1,29 @@
-<mxfile host="app.diagrams.net" modified="2024-05-25T01:00:49.135Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="KHaWube4JpKY-GAB9gOx" version="24.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-25T01:04:37.007Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="nPbLGSKFdQgmJzc_cmO7" version="24.4.8" type="github">
   <diagram name="Page-1" id="0lwkGA6xiCIHMk2O2MPX">
     <mxGraphModel dx="880" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="L9-J7HRFgo_YMFEwtRyo-1" value="Recepción de&lt;div&gt;materias&lt;/div&gt;&lt;div&gt;primas&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="L9-J7HRFgo_YMFEwtRyo-1" value="Recepción de&lt;div&gt;materias&lt;/div&gt;&lt;div&gt;primas&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="40" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="L9-J7HRFgo_YMFEwtRyo-3" value="Almacenamiento&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;de materias&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;primas&lt;/span&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="L9-J7HRFgo_YMFEwtRyo-3" value="Almacenamiento&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;de materias&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;primas&lt;/span&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="160" y="40" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="L9-J7HRFgo_YMFEwtRyo-4" value="Almacenamiento&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;de materias&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;primas&lt;/span&gt;&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="L9-J7HRFgo_YMFEwtRyo-5" value="&amp;nbsp; &amp;nbsp;Transformación" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="40" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="L9-J7HRFgo_YMFEwtRyo-5" value="&amp;nbsp; &amp;nbsp;Transformación" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="L9-J7HRFgo_YMFEwtRyo-6" value="Control de&lt;div&gt;Calidad&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="40" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="L9-J7HRFgo_YMFEwtRyo-6" value="Control de&lt;div&gt;Calidad&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="L9-J7HRFgo_YMFEwtRyo-7" value="Empaquetado&lt;div&gt;y&lt;/div&gt;&lt;div&gt;etiquetado&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="40" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="L9-J7HRFgo_YMFEwtRyo-7" value="Empaquetado&lt;div&gt;y&lt;/div&gt;&lt;div&gt;etiquetado&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="40" width="120" height="80" as="geometry" />
+        <mxCell id="L9-J7HRFgo_YMFEwtRyo-8" value="Almacenamiento&lt;div&gt;de productos&lt;/div&gt;&lt;div&gt;terminados&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="130" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="L9-J7HRFgo_YMFEwtRyo-8" value="Almacenamiento&lt;div&gt;de productos&lt;/div&gt;&lt;div&gt;terminados&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="140" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="L9-J7HRFgo_YMFEwtRyo-9" value="Distribución" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="140" width="120" height="80" as="geometry" />
+        <mxCell id="L9-J7HRFgo_YMFEwtRyo-9" value="Distribución" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="130" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
